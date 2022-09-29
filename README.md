@@ -1,7 +1,6 @@
 <h1 align="center">Water And Soap Dispenser</h1>
 
 
-
 <h3 align="center"Fully Automatic Water And Soap Dispenser</h3>
 
 
