@@ -1,0 +1,16 @@
+[PROJECT]
+Target=D:\automatic tap\Code\main.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.025d
+Compiler=PCM
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[D:\automatic tap\Code\main]
+Type=4
+[mru-list]
+1=main.c
+[Units]
+Count=1
+1=main (main)
